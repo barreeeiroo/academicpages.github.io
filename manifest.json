@@ -1,0 +1,17 @@
+{
+    "name": "Diego's Website",
+    "short_name": "Diego Barreiro",
+    "description": "My personal website",
+    "lang": "en",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#4527a0",
+    "icons": [
+      {
+        "src": "/images/profile.png",
+        "sizes": "400x400",
+        "type": "image/png"
+      }
+    ]
+  }
