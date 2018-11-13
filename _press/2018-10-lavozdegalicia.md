@@ -1,7 +1,7 @@
 ---
 title: 'A nosa web facilita a vida de moitas persoas que non saben programar - La Voz de Galicia'
 date: 2018-10-14
-permalink: /press/2018/02/lavozdegalicia/
+permalink: /press/2018/10/lavozdegalicia/
 ---
 
 Original Article: [_La Voz de Galicia_](https://www.lavozdegalicia.es/noticia/santiago/2018/10/02/estudiante-bachillerato-internacional-socio-makeroid-nosa-web-facilita-vida-moitas-persoas-non-saben-programarestudiante-proyecto-exito/0003_201810S2C8992.htm)
