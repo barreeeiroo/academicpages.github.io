@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "en-GB"
+title                    : "Diego's Website"
+title_separator          : "|"
+name                     : "Diego Barreiro"
+description              : "IB Student"
+url                      : https://www.barreiro.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "barreeeiroo/barreeeiroo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,17 +57,17 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "barreeeiroo"
 facebook:
-  username               :
+  username               : "barreeeiroo"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"
+  name                   : "Diego Barreiro"
   links: # An array of links to social media profiles
 
 
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Diego Barreiro Pérez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "IB Student & Programmer"
+  location         : "Santiago de Compostela, ES"
+  employer         : "Kodular"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "diego@barreiro.xyz"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,24 +94,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "barreeeiroo"
+  google_plus      : "DBP7DBP"
   keybase          :
-  instagram        :
+  instagram        : "_barreeeiroo_"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "barreeeiroo"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "6626193/diego-barreiro"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "barreeeiroo"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "UC1imWAblBPMHXe3_Q3Mtg5A"
+  wikipedia        : "Barreeeiroo"
 
 
 # Reading Files
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
