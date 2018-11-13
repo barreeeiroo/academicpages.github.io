@@ -4,7 +4,7 @@ date: 2018-10-14
 permalink: /press/2018/02/lavozdegalicia/
 ---
 
-Original Article: [_La Voz de Galicia](https://www.lavozdegalicia.es/noticia/santiago/2018/10/02/estudiante-bachillerato-internacional-socio-makeroid-nosa-web-facilita-vida-moitas-persoas-non-saben-programarestudiante-proyecto-exito/0003_201810S2C8992.htm)
+Original Article: [_La Voz de Galicia_](https://www.lavozdegalicia.es/noticia/santiago/2018/10/02/estudiante-bachillerato-internacional-socio-makeroid-nosa-web-facilita-vida-moitas-persoas-non-saben-programarestudiante-proyecto-exito/0003_201810S2C8992.htm)
 
 ---
 
