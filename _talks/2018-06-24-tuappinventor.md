@@ -8,7 +8,7 @@ date: 2018-06-24
 location: "Spain"
 ---
 
-Original Article: [_TuAppInventor Wesite_](https://www.tuappinvetorandroid.com/2018/06/24/makeroid/)
+Original Article: [_Tu App Inventor_](https://www.tuappinvetorandroid.com/2018/06/24/makeroid/)
 
 ---
 
