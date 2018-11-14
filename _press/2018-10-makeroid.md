@@ -1,5 +1,5 @@
 ---
-title: 'A nosa web facilita a vida de moitas persoas que non saben programar - La Voz de Galicia'
+title: '«A nosa web facilita a vida de moitas persoas que non saben programar» - La Voz de Galicia'
 date: 2018-10-14
 permalink: /press/2018/10/makeroid/
 ---
