@@ -1,7 +1,7 @@
 ---
 title: 'Galiciencia reúne en Ourense a los prometedores inventores del futuro - El Correo Gallego'
 date: 2014-11-20
-permalink: /press/2018/05/lorca/
+permalink: /press/2014/11/galiciencia14/
 ---
 
 Original Article: [_El Correo Gallego_](https://www.elcorreogallego.es/tendencias/ecg/galiciencia-reune-en-ourense-a-los-prometedores-inventores-del-futuro/idEdicion-2014-11-20/idNoticia-901871/)
