@@ -10,8 +10,9 @@ redirect_from:
   - /home.html
 ---
 
-# Welcome to my personal website!
 
-It is still under development, but you can check the press releases or talks by clicking on the nav buttons above
+**Welcome to my website!**
+
+It is still under development, but you can read more about me, such us press releases or talks, by clicking on the nav buttons above
 
 Do not forget to follow me ;)
