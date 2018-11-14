@@ -39,12 +39,14 @@ Hobbies
 
 In Press
 ======
-  <ul>{% for post in site.press %}
+{% assign sorted1 = (site.press | sort: 'date') | reverse %}
+  <ul>{% for post in sorted1 limit: 5 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+{% assign sorted2 = (site.press | sort: 'date') | reverse %}
+  <ul>{% for post in sorted2 limit: 5 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
