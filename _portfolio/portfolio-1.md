@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Kodular"
+excerpt: "Much more than a modern app creator without coding<br/><img src='/images/kodular.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Kodular provides an online drag-and-drop Android app creator. You can create for free any app you want, without learking any coding language.
+
+It also provides an App Store and an Extensions IDE for advanded users who want to code their own components.
