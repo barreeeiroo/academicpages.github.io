@@ -46,7 +46,7 @@ In Press
   
 Talks
 ======
-{% assign sorted2 = (site.press | sort: 'date') | reverse %}
+{% assign sorted2 = (site.talks | sort: 'date') | reverse %}
   <ul>{% for post in sorted2 limit: 5 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
