@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-80299816-1"
 
 
 # Site Author
@@ -92,7 +92,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "barreeeiroo"
   foursquare       :
   github           : "barreeeiroo"
   google_plus      : "DBP7DBP"
