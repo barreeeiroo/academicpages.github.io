@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/cadenaser
 venue: "Website"
-date: 2018-06-24
+date: 2018-12-19
 location: "Cadena SER"
 ---
 
