@@ -12,15 +12,16 @@ redirect_from:
 Education
 ======
 * IES Rosalía de Castro
-  * International Baccalaureate, _expected_ May 2019
-  * Título de Bachiller Español, _expected_ June 2019
-  * Avaluación do Bacharalato para o Acceso á Universidad, _expected_ June 2019
+  * International Baccalaureate
+  * Título de Bachiller Español
 
 Work experience
 ======
-* [Makeroid / Kodular](https://www.kodular.io)
-  * CoFounder & Programmer
-  * July 2017 - Now
+* [Kodular](https://www.kodular.io)
+  * Co-Founder & Chief Technical Officer (_Makeroid_) 
+    * July 2017 - July 2019
+  * Chief Executive Officer (_Junnovate, LLC_)
+    * July 2019 - Now
   
 Skills
 ======
