@@ -21,8 +21,9 @@ chance to do so.
 I have co-founded my own company ([Kodular](https://www.kodular.io), owned by _Junnovate, LLC_) with 
 other teenagers around the world. Currently, we have nearly 1.5M daily active users and we are partnered 
 with companies like Unity and StartApp.  
-But what is more important: lots of schools, high-schools and colleges are using our platform to teach 
-programming.
+But there is something more important: lots of schools, high-schools and colleges are using our platform 
+to teach programming. This makes us so proud of our work, and let us know that we are contributing to 
+make the world a bit easier.
 
 ---
 
