@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Diego Barreiro Pérez"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "CS Student"
   location         : "Santiago de Compostela, ES"
   employer         : "Kodular"
@@ -95,9 +95,9 @@ author:
   facebook         : "barreeeiroo"
   foursquare       :
   github           : "barreeeiroo"
-  google_plus      : "DBP7DBP"
+  google_plus      :
   keybase          :
-  instagram        : "_barreeeiroo_"
+  instagram        : "barreeeiroo"
   lastfm           :
   linkedin         : "barreeeiroo"
   orcid            :
@@ -111,7 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          : "UC1imWAblBPMHXe3_Q3Mtg5A"
-  wikipedia        : "Barreeeiroo"
+  wikipedia        :
 
 
 # Reading Files
