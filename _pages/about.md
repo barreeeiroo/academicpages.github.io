@@ -11,11 +11,18 @@ redirect_from:
 ---
 
 
-**Welcome to my website!**
+**Hey there!**
 
-It is still under development, but you can read more about me, such us press releases or talks, by clicking on the nav buttons above
+Since I was eleven years old, I have been sure I loved computing. I did not know how computers worked, 
+but their ability to make our lives easier has always fascinated me. From the very beginning, I knew I 
+wanted to know everything that I could about computers in order to understand them, and now I have the 
+chance to do so.
 
-Do not forget to follow me ;)
+I have co-founded my own company ([Kodular](https://www.kodular.io), owned by _Junnovate, LLC_) with 
+other teenagers around the world. Currently, we have nearly 1.5M daily active users and we are partnered 
+with companies like Unity and StartApp.  
+But what is more important: lots of schools, high-schools and colleges are using our platform to teach 
+programming.
 
 ---
 

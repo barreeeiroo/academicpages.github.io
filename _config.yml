@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Diego's Website"
 title_separator          : "-"
 name                     : "Diego Barreiro"
-description              : "IB Student"
+description              : "CS Student"
 url                      : https://www.barreiro.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "barreeeiroo/barreeeiroo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Diego Barreiro Pérez"
   avatar           : "profile.png"
-  bio              : "IB Student & Programmer"
+  bio              : "CS Student"
   location         : "Santiago de Compostela, ES"
   employer         : "Kodular"
   googlescholar    :

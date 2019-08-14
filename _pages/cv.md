@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* IES Rosalía de Castro
-  * International Baccalaureate
+* IES Rosalía de Castro (2013-2019)
+  * International Baccalareate
   * Título de Bachiller Español
+* Universidad de Santiago de Compostela (2019-2024)
+  * Bachelor of Science in Computer Science (_expected_)
 
 Work experience
 ======
@@ -25,12 +27,14 @@ Work experience
   
 Skills
 ======
-* Management of Linux Servers
+* Management of Servers Infrastructure
+  * App Engine and related at Google Cloud Platform
+  * Elastic Beanstalk and related at Amazon Web Services
 * Programming
-  * PHP + Web Languages
-  * Java + Android
+  * Python, including _Django_
+  * Java, worked with _ant_ and _Android_
+  * PHP, focused for web development
   * Lua
-  * Python
 
 Hobbies
 ======
