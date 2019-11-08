@@ -27,7 +27,7 @@ make the world a bit easier.
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@Barreeeiroo/dd2ae563-aada-482b-99f5-4a8fe1364454.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Barreeeiroo/dd2ae563-aada-482b-99f5-4a8fe1364454.svg"></figure>
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/barreeeiroo" style="min-width:320px;height:580px;"></div>
