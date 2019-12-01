@@ -34,6 +34,7 @@ Skills
   * Python, including _Django_
   * Java, worked with _ant_ and _Android_
   * PHP, focused for web development
+  * C
   * Lua
 
 Hobbies
