@@ -27,4 +27,7 @@ make the world a bit easier.
 
 ---
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="barreeeiroo"><a class="LI-simple-link" href='https://es.linkedin.com/in/barreeeiroo?trk=profile-badge'>Diego Barreiro Pérez</a></div>
 <figure><embed src="https://wakatime.com/share/@Barreeeiroo/dd2ae563-aada-482b-99f5-4a8fe1364454.svg"></figure>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
